@@ -10,13 +10,13 @@
 
 ***
 ### RESEARCH INTEREST     
-1. Hashing encoding with machine learning, deep learning or other AI algorithms.
-2. Use AI methods for solving the performance bottleneck in the areas of database, cache or other computer systems.     
+- Hashing encoding with machine learning, deep learning or other AI algorithms.
+- Use AI methods for solving the performance bottleneck in the areas of database, cache or other computer systems.     
 
 ***
 ### PUBLICATIONS
-- Yangtao Wang, Yanzhao Xie, Yu Liu, Ke Zhou, Xiaocui Li:[Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion. CIKM 2020: 1575-1584](https://doi.org/10.1145/3340531.3411880). (CCF B) 
-- Yanzhao Xie, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou: [Label-Attended Hashing for Multi-Label Image Retrieval. IJCAI 2020: 955-962](https://doi.org/10.24963/ijcai.2020/133). (CCF A)     
+- Yangtao Wang, Yanzhao Xie, Yu Liu, Ke Zhou, Xiaocui Li: [Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion](https://doi.org/10.1145/3340531.3411880).CIKM 2020: 1575-1584. (CCF B) 
+- Yanzhao Xie, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou: [Label-Attended Hashing for Multi-Label Image Retrieval](https://doi.org/10.24963/ijcai.2020/133). IJCAI 2020: 955-962. (CCF A)     
 
 ***
 ### EDUCATION INFO
