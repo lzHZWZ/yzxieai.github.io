@@ -7,8 +7,7 @@
 <center>Wuhan National Laboratory for Optoelectronics (WNLO)</center>
 <center>Intelligent Cloud Storage Joint Research Center of HUST and Tencent Inc.</center>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+---------------------------------ABOUT ME--------------------------------------
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
