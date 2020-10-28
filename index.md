@@ -3,9 +3,9 @@
 <div align=center><img src="./me.png" width="  "></div>
 
 <center>Ph.D. Candidate,</center>
-<center>Huazhong University of Science and Technology (HUST)</center>
-<center>Key Laboratory of Information Storage System, Ministry Of Education</center>
-<center>Wuhan National Laboratory for Optoelectronics (WNLO)</center>
+<center>Huazhong University of Science and Technology (HUST),</center>
+<center>Key Laboratory of Information Storage System, Ministry Of Education,</center>
+<center>Wuhan National Laboratory for Optoelectronics (WNLO),</center>
 <center>Intelligent Cloud Storage Joint Research Center of HUST and Tencent Inc.</center>
 
 ### RESEARCH INTEREST     
