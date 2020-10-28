@@ -7,7 +7,7 @@
 <center>Wuhan National Laboratory for Optoelectronics (WNLO)</center>
 <center>Intelligent Cloud Storage Joint Research Center of HUST and Tencent Inc.</center>
 
-<center><b><font size=25 color="green">ABOUT ME</font></b></center>
+<center><font size=13 color="green">—————————————————— ABOUT ME ————————————————————</font></center>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
