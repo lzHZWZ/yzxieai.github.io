@@ -6,10 +6,14 @@
 <center>Key Laboratory of Information Storage System, Ministry Of Education</center>
 <center>Wuhan National Laboratory for Optoelectronics (WNLO)</center>
 <center>Intelligent Cloud Storage Joint Research Center of HUST and Tencent Inc.</center>
-<br></br>
-<center><font size=8 color="blue">ABOUT ME</font></center>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### RESEARCH INTEREST     
+1. Hashing encoding with machine learning, deep learning or other AI algorithms.
+2. Use AI methods for solving the performance bottleneck in the areas of database, cache or other computer systems. 
+
+### PUBLICATIONS
+1. Yangtao Wang, Yanzhao Xie, Yu Liu, Ke Zhou, Xiaocui Li:Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion. CIKM 2020: 1575-1584. (CCF B)  [*FULL PAPER*](https://doi.org/10.1145/3340531.3411880)
+2. Yanzhao Xie, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou: Label-Attended Hashing for Multi-Label Image Retrieval. IJCAI 2020: 955-962. (CCF A)  [*FULL PAPER*](https://doi.org/10.24963/ijcai.2020/133)
 
 ```markdown
 Syntax highlighted code block
