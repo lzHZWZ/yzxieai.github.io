@@ -18,8 +18,8 @@
 
 ### EDUCATION INFO
 - Sep 2019 - Now. Ph.D. in Wuhan National Laboratory for Optoelectronics (WNLO).
-- Sep 2016 - Mar 2019. Master, Dept. of Software Engineering. Huazhong University of Science and Technology (HUST).
-- Sep 2009 - Jun 2013. Bachelor's degree, Dept. of Automation, North China Electric Power University (NCEPU).
+- Sep 2016 - Mar 2019. Master, Dept. of Software Engineering, Huazhong University of Science and Technology (HUST).
+- Sep 2009 - Jun 2013. Bachelor's degree in Dept. of Automation, North China Electric Power University (NCEPU).
 
 ### AWARDS
 - Sep 2018. I got the honorary title of merit graduate student in the Dep. of Software Engineering, HUST.
