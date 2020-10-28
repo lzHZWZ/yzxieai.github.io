@@ -20,6 +20,11 @@
 - Sep 2016 - Mar 2019. Master, Dept. of Software Engineering. Huazhong University of Science and Technology (HUST).
 - Sep 2009 - Jun 2013. Bachelor's degree, Dept. of Automation, North China Electic Power University (NCEPU).
 
+### AWARDS
+- Sep 2018. I got the honorary title of merit graduate student in the Dep. of Software Engineering, HUST.
+- Sep 2017. I got Second-class academic scholarship in the Dep. of Software Engineering, HUST.
+- Sep 2016. I got First-class academic scholarship in the Dep. of Software Engineering, HUST.
+
 ```markdown
 Syntax highlighted code block
 
