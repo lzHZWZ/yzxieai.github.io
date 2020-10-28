@@ -26,6 +26,6 @@
 - Sep 2016. I got First-class academic scholarship in the Dep. of Software Engineering, HUST.
 
 ### CONTACT ME
-- ADDRESS: Room B-409, Wuhan National Laboratory for Optoelectronics,1037 Luoyu Road, Hongshan District, Wuhan city, Hubei province, China
-- EMAIL:yzxie@hust.edu.cn
+- <b>ADDRESS:</b>  Room B-409, Wuhan National Laboratory for Optoelectronics,1037 Luoyu Road, Hongshan District, Wuhan city, Hubei province, China
+- <b>EMAIL:</b> yzxie@hust.edu.cn
 
