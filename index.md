@@ -1,5 +1,5 @@
 <center><b><font size=50>Yanzhao Xie</font></b></center>
-<center><a href="/index-cn.md">中文主页</a></center>
+<!--<center><a href="/index-cn.md">中文主页</a></center> -->
 <div align=center><img src="./me.png" width="  "></div>
 
 <center>Ph.D. Candidate,</center>
