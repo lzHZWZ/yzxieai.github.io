@@ -1,5 +1,5 @@
 <center><b><font size=50>谢延昭</font></b></center>
-<center><a href="/index.md">English Version</a></center>
+
 <div align=center><img src="./me.png" width="  "></div>
 
 <center>博士生,</center>
