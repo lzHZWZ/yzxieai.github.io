@@ -1,4 +1,4 @@
-<center>##Yanzhao Xie</center>
+<center><font size=10>Yanzhao Xie</font></center>
 <div align=center><img src="./me.png" width="  "></div>
 
 You can use the [editor on GitHub](https://github.com/yzxieai/yzxieai.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
