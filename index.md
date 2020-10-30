@@ -11,6 +11,7 @@
 ***
 ### RESEARCH INTEREST     
 - Hashing encoding with machine learning, deep learning or other AI algorithms.
+- Research novel deep learning methods on the area of processing video and image.
 - Use AI methods for solving the performance bottleneck in the areas of database, cache or other computer systems.     
 
 ***
