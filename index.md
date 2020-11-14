@@ -20,6 +20,8 @@
 [Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion](https://doi.org/10.1145/3340531.3411880).CIKM 2020: 1575-1584. (CCF B) 
 - *Yanzhao Xie*, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou:     
 [Label-Attended Hashing for Multi-Label Image Retrieval](https://doi.org/10.24963/ijcai.2020/133). IJCAI 2020: 955-962. (CCF A)     
+- Yan-tian Zhang, Jun-yi Zhou, Yan-zhao Xie:      
+[Virtual reality of interior noises of vehicles based on boundary element and neural networks](https://link.springer.com/article/10.1007%2Fs00521-016-2836-0). Neural Comput. Appl. 29(5): 1281-1291 (2018)
 
 ***
 ### EDUCATION INFO
