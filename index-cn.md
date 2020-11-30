@@ -5,7 +5,7 @@
 <center>博士生,</center>
 <center>华中科技大学,</center>
 <center>武汉光电国家研究中心,</center>
-<center>华中科技大学-腾讯公司 智能云存储技术联合研究中心.</center>
+<center>华中科技大学-腾讯公司智能云存储技术联合研究中心.</center>
 
 ### 研究兴趣
 1. 深度学习、机器学习在哈希领域的应用。
