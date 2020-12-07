@@ -8,8 +8,9 @@
 <center>华中科技大学-腾讯公司智能云存储技术联合研究中心.</center>
 
 ### 研究兴趣
-1. 深度学习、机器学习在哈希领域的应用。
-2. 使用AI方法解决数据库、计算机缓存等计算机系统领域的性能瓶颈问题。 
+1. 深度学习、机器学习在图像分类或哈希领域的应用；
+2. 深度学习在视频摘要、视频目标识别和视频内容哈希编码领域的应用；
+2. 使用AI方法解决数据库、计算机系统哈希索引等计算机系统领域的性能瓶颈问题。 
 
 ### 发表论文
 1. Yangtao Wang, Yanzhao Xie, Yu Liu, Ke Zhou, Xiaocui Li:Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion. CIKM 2020: 1575-1584. [*完整论文*](https://doi.org/10.1145/3340531.3411880)
