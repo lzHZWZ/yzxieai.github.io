@@ -17,9 +17,9 @@
 ***
 ### PUBLICATIONS
 - Yangtao Wang, *Yanzhao Xie*, Yu Liu, Ke Zhou, Xiaocui Li:     
-[Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion](https://doi.org/10.1145/3340531.3411880).CIKM 2020: 1575-1584. (CCF B) 
+[Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion](https://doi.org/10.1145/3340531.3411880).CIKM 2020: 1575-1584. 
 - *Yanzhao Xie*, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou:     
-[Label-Attended Hashing for Multi-Label Image Retrieval](https://doi.org/10.24963/ijcai.2020/133). IJCAI 2020: 955-962. (CCF A)     
+[Label-Attended Hashing for Multi-Label Image Retrieval](https://doi.org/10.24963/ijcai.2020/133). IJCAI 2020: 955-962.     
 - Yantian Zhang, Junyi Zhou, *Yanzhao Xie*:      
 [Virtual reality of interior noises of vehicles based on boundary element and neural networks](https://link.springer.com/article/10.1007%2Fs00521-016-2836-0). Neural Comput. Appl. 29(5): 1281-1291 (2018)
 
