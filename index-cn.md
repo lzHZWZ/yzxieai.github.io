@@ -12,8 +12,8 @@
 2. 使用AI方法解决数据库、计算机缓存等计算机系统领域的性能瓶颈问题。 
 
 ### 发表论文
-1. Yangtao Wang, Yanzhao Xie, Yu Liu, Ke Zhou, Xiaocui Li:Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion. CIKM 2020: 1575-1584. (CCF B)  [*完整论文*](https://doi.org/10.1145/3340531.3411880)
-2. Yanzhao Xie, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou: Label-Attended Hashing for Multi-Label Image Retrieval. IJCAI 2020: 955-962. (CCF A)  [*完整论文*](https://doi.org/10.24963/ijcai.2020/133)
+1. Yangtao Wang, Yanzhao Xie, Yu Liu, Ke Zhou, Xiaocui Li:Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion. CIKM 2020: 1575-1584. [*完整论文*](https://doi.org/10.1145/3340531.3411880)
+2. Yanzhao Xie, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou: Label-Attended Hashing for Multi-Label Image Retrieval. IJCAI 2020: 955-962. [*完整论文*](https://doi.org/10.24963/ijcai.2020/133)
 
 ### 教育背景
 - 2019.9. - 至今 博士 武汉光电国家研究中心,
