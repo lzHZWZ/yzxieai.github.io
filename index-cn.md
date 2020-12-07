@@ -13,8 +13,8 @@
 2. 使用AI方法解决数据库、计算机系统哈希索引等计算机系统领域的性能瓶颈问题。 
 
 ### 发表论文
-1. Yangtao Wang, *Yanzhao Xie*, Yu Liu, Ke Zhou, Xiaocui Li:Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion. <b>CIKM 2020</b>: 1575-1584. [*完整论文*](https://doi.org/10.1145/3340531.3411880)
-2. *Yanzhao Xie*, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou: Label-Attended Hashing for Multi-Label Image Retrieval. <b>IJCAI 2020</b>: 955-962. [*完整论文*](https://doi.org/10.24963/ijcai.2020/133)      
+1. Yangtao Wang, *Yanzhao Xie*, Yu Liu, Ke Zhou, Xiaocui Li:Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion. [<b>CIKM 2020</b>](https://www.cikm2020.org/): 1575-1584. [*完整论文*](https://doi.org/10.1145/3340531.3411880)
+2. *Yanzhao Xie*, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou: Label-Attended Hashing for Multi-Label Image Retrieval. [<b>IJCAI 2020</b>](https://ijcai20.org/): 955-962. [*完整论文*](https://doi.org/10.24963/ijcai.2020/133)      
 3. Yantian Zhang, Junyi Zhou, *Yanzhao Xie*<sup>*</sup>: Virtual reality of interior noises of vehicles based on boundary element and neural networks. <b>Neural Comput. Appl.</b> 29(5): 1281-1291 (2018). [*完整论文*](https://link.springer.com/article/10.1007%2Fs00521-016-2836-0)
 
 ### 教育背景
