@@ -2,7 +2,7 @@
 <center><a href="./index-cn.html">中文主页</a></center>
 <div align=center><img src="./me.png" width="  "></div>
 
-<center>Ph.D. Candidate,</center>
+<center>Ph.D Candidate,</center>
 <center>Huazhong University of Science and Technology (HUST),</center>
 <center>Key Laboratory of Information Storage System, Ministry Of Education,</center>
 <center>Wuhan National Laboratory for Optoelectronics (WNLO),</center>
