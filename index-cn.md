@@ -19,7 +19,7 @@
 4. Yantian Zhang, Junyi Zhou, *Yanzhao Xie*<sup>*</sup>: Virtual reality of interior noises of vehicles based on boundary element and neural networks. <b>Neural Comput. Appl.</b> 29(5): 1281-1291 (2018). [*完整论文*](https://link.springer.com/article/10.1007%2Fs00521-016-2836-0)
 
 ### 教育背景
-- 2019.9. - 至今 博士 武汉光电国家研究中心,
+- 2019.9. - 至今    博士 华中科技大学-武汉光电国家研究中心,
 - 2016.9. - 2019.3. 硕士 华中科技大学-软件学院,
 - 2009.9. - 2013.6. 工学学士 华北电力大学(保定)-自动化学院。
 
