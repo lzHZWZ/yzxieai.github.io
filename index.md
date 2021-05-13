@@ -33,7 +33,7 @@
 
 ***
 ### AWARDS
-- Sep 2020. I got the honorary title of merit graduate student in WNLO.
+- Sep 2020. I got the honorary title of merit graduate student in WNLO, HUST.
 - Sep 2019. I got the honorary title of excellent master's degree student in the Dep. of Software Engineering, HUST.
 - Sep 2018. I got the "Knowledge and Action" Outstanding Third-class Scholarship in the Dep. of Software Engineering, HUST.
 - Sep 2017. I got Second-class academic scholarship in the Dep. of Software Engineering, HUST.
