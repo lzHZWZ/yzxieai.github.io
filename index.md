@@ -16,6 +16,8 @@
 
 ***
 ### PUBLICATIONS
+- Yu Liu, Yangtao Wang, Lianli Gao, Chan Guo, *Yanzhao Xie*, Zhili Xiao:     
+[Deep Hash-based Relevance-aware Data Quality Assessment for Image Dark Data](https://dl.acm.org/doi/10.1145/3420038). <b>Trans. Data Sci</b>. 2(2): 11:1-11:26 (2021)
 - Yangtao Wang, *Yanzhao Xie*, Yu Liu, Ke Zhou, Xiaocui Li:     
 [Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion](https://doi.org/10.1145/3340531.3411880).<b>CIKM 2020</b>: 1575-1584. 
 - *Yanzhao Xie*, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou:     
