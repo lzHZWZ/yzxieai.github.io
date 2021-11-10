@@ -11,7 +11,7 @@
 ***
 ### RESEARCH INTEREST     
 - Hashing encoding with machine learning, deep learning or other AI algorithms.
-- The application of deep learning in video abstract, video target recognition and video content hash coding，
+- The application of deep learning in detection and instance segmentation，
 - Use AI methods for solving the performance bottleneck in the areas of database, hash index of computer system.    
 
 ***
