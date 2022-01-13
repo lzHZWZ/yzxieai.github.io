@@ -33,7 +33,7 @@
 ### UNDER REVIEW
 - Label-Affinity Self-Adaptive Central Similarity Hashing (CVPR 2022), second author.
 - SELF-SUPERVISED LABEL-VISUAL CORRELATION HASHING FOR MULTI-LABEL IMAGE RETRIEVAL (ICME 2022), first author.
-- mage-modality Representation for Anomaly Detection Using Generative Adversarial Network (EDBT 2022), third author.
+- Image-modality Representation for Anomaly Detection Using Generative Adversarial Network (EDBT 2022), third author.
      
 ***
 ### EDUCATION INFO
