@@ -2,13 +2,13 @@
 <!-- <center><a href="./index-cn.html">中文主页</a></center> -->
 <!-- <div align=center><img src="./me.png" width="  "></div> -->
 
-<center>Ph.D Candidate,</center>
+<!-- <center>Ph.D Candidate,</center>
 <center>Huazhong University of Science and Technology (HUST),</center>
 <center>Key Laboratory of Information Storage System, Ministry Of Education,</center>
 <center>Wuhan National Laboratory for Optoelectronics (WNLO),</center>
 <center>Intelligent Cloud Storage Joint Research Center of HUST and Tencent Inc.</center>
 
-***
+*** -->
 ### RESEARCH INTEREST     
 - Hashing encoding with machine learning, deep learning or other AI algorithms.
 - The application of deep learning in detection and instance segmentation，
