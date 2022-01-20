@@ -16,7 +16,7 @@
 
 ***
 ### PUBLICATIONS    
-## ACCEPTED
+#### ACCEPTED
 - Yangtao Wang, Yanzhao Xie, Yu Liu, Lisheng Fan:
 [G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition](https://dl.acm.org/doi/10.1145/3460426.3463620). <b>ICMR 2021</b>: 322-330
 - Yu Liu, Yangtao Wang, Lianli Gao, Chan Guo, *Yanzhao Xie*, Zhili Xiao:     
@@ -30,7 +30,7 @@
 - Yantian Zhang, Junyi Zhou, *Yan-zhao Xie*:      
 [Virtual reality of interior noises of vehicles based on boundary element and neural networks](https://link.springer.com/article/10.1007%2Fs00521-016-2836-0). <b>Neural Comput. Appl</b>. 29(5): 1281-1291 (2018).             
       
-## UNDER REVIEW
+#### UNDER REVIEW
 - Label-Affinity Self-Adaptive Central Similarity Hashing (CVPR 2022), first author.
 - SELF-SUPERVISED LABEL-VISUAL CORRELATION HASHING FOR MULTI-LABEL IMAGE RETRIEVAL (ICME 2022), second author.
 - Image-modality Representation for Anomaly Detection Using Generative Adversarial Network (EDBT 2022), third author.
