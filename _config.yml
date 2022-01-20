@@ -3,10 +3,10 @@ title:  Yanzhao Xie
 
 description: >
   <img src="me.png"  alt="photo" height="260" align="center"/>
-  <center>Ph.D Candidate,</center>
-  <center>Huazhong University of Science and Technology (HUST),</center>
-  <center>Key Laboratory of Information Storage System, Ministry Of Education,</center>
-  <center>Wuhan National Laboratory for Optoelectronics (WNLO),</center>
-  <center>Intelligent Cloud Storage Joint Research Center of HUST and Tencent Inc.</center>
+  <center><font style="font-family:times new roma">Ph.D Candidate,</font></center>
+  <center><font style="font-family:times new roma">Huazhong University of Science and Technology (HUST),</font></center>
+  <center><font style="font-family:times new roma">Key Laboratory of Information Storage System, Ministry Of Education,</font></center>
+  <center><font style="font-family:times new roma">Wuhan National Laboratory for Optoelectronics (WNLO),</font></center>
+  <center><font style="font-family:times new roma">Intelligent Cloud Storage Joint Research Center of HUST and Tencent Inc.</font></center>
 show_downloads: false
 # logo: ./me.png
