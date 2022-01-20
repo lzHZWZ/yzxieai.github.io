@@ -17,7 +17,7 @@
 
 ***
 ### PUBLICATIONS    
-#### ACCEPTED
+#### 1.ACCEPTED
 1. Yangtao Wang, Yanzhao Xie, Yu Liu, Lisheng Fan:
 [G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition](https://dl.acm.org/doi/10.1145/3460426.3463620). <b>ICMR 2021</b>: 322-330
 2. Yu Liu, Yangtao Wang, Lianli Gao, Chan Guo, *Yanzhao Xie*, Zhili Xiao:     
