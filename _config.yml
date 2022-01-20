@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title:  Yanzhao Xie
-description: 
-# <img src="me.png"  alt="photo" height="200" align="center"/>
+# description: <img src="me.png"  alt="photo" height="200" align="center"/>
 show_downloads: false
+logo: ./me.png
