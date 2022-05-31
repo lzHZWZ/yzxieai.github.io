@@ -17,7 +17,7 @@
 
 ***
 ### PUBLICATIONS    
-#### 1.ACCEPTED
+#### 1.ACCEPTED (partial)
 1. *Yanzhao Xie*, Yangtao Wang, Yu Liu, Ke Zhou:    
 [Label graph learning for multi-label image recognition with cross-modal fusion](https://link.springer.com/article/10.1007/s11042-022-12397-y). <b>Multimedia Tools and Applications 2022</b>.
 2. Yangtao Wang, *Yanzhao Xie*, Yu Liu, Lisheng Fan:
@@ -45,7 +45,7 @@
 - Sep 2009 - Jun 2013. Bachelor's degree, Dept. of Automation, North China Electric Power University (NCEPU).      
 
 ***
-### AWARDS
+### AWARDS (partial)
 - Sep 2020. I got the honorary title of merit graduate student in WNLO, HUST.
 - Sep 2019. I got the honorary title of excellent master's degree student in the Dep. of Software Engineering, HUST.
 - Sep 2018. I got the "Knowledge and Action" Outstanding Third-class Scholarship in the Dep. of Software Engineering, HUST.
