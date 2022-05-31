@@ -18,17 +18,19 @@
 ***
 ### PUBLICATIONS    
 #### 1.ACCEPTED
-1. Yangtao Wang, Yanzhao Xie, Yu Liu, Lisheng Fan:
+1. *Yanzhao Xie*, Yangtao Wang, Yu Liu, Ke Zhou:    
+[Label graph learning for multi-label image recognition with cross-modal fusion](https://link.springer.com/article/10.1007/s11042-022-12397-y). <b>Multimedia Tools and Applications 2022</b>
+2. Yangtao Wang, *Yanzhao Xie*, Yu Liu, Lisheng Fan:
 [G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition](https://dl.acm.org/doi/10.1145/3460426.3463620). <b>ICMR 2021</b>: 322-330
-2. Yu Liu, Yangtao Wang, Lianli Gao, Chan Guo, *Yanzhao Xie*, Zhili Xiao:     
+3. Yu Liu, Yangtao Wang, Lianli Gao, Chan Guo, *Yanzhao Xie*, Zhili Xiao:     
 [Deep Hash-based Relevance-aware Data Quality Assessment for Image Dark Data](https://dl.acm.org/doi/10.1145/3420038). <b>Trans. Data Sci</b>. 2(2): 11:1-11:26 (2021)
-3. Yangtao Wang, *Yanzhao Xie*, Yu Liu, Ke Zhou, Xiaocui Li:     
+4. Yangtao Wang, *Yanzhao Xie*, Yu Liu, Ke Zhou, Xiaocui Li:     
 [Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion](https://doi.org/10.1145/3340531.3411880).<b>CIKM 2020</b>: 1575-1584. 
-4. *Yanzhao Xie*, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou:     
+5. *Yanzhao Xie*, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou:     
 [Label-Attended Hashing for Multi-Label Image Retrieval](https://doi.org/10.24963/ijcai.2020/133). <b>IJCAI 2020</b>: 955-962.    
-5. Yan-tian Zhang, Haoxiang Wang, *Yan-zhao Xie*:     
+6. Yan-tian Zhang, Haoxiang Wang, *Yanzhao Xie*:     
 [An intelligent hybrid model for power flow optimization in the cloud-IOT electrical distribution network.](https://link.springer.com/article/10.1007%2Fs10586-017-1270-0) <b>Clust. Comput.</b> 22(6): 13109-13118 (2019).    
-6. Yantian Zhang, Junyi Zhou, *Yan-zhao Xie*:      
+7. Yantian Zhang, Junyi Zhou, *Yanzhao Xie*:      
 [Virtual reality of interior noises of vehicles based on boundary element and neural networks](https://link.springer.com/article/10.1007%2Fs00521-016-2836-0). <b>Neural Comput. Appl</b>. 29(5): 1281-1291 (2018).             
       
 #### 2.UNDER REVIEW
