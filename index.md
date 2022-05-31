@@ -19,7 +19,7 @@
 ### PUBLICATIONS    
 #### 1.ACCEPTED
 1. *Yanzhao Xie*, Yangtao Wang, Yu Liu, Ke Zhou:    
-[Label graph learning for multi-label image recognition with cross-modal fusion](https://link.springer.com/article/10.1007/s11042-022-12397-y). <b>Multimedia Tools and Applications 2022</b>
+[Label graph learning for multi-label image recognition with cross-modal fusion](https://link.springer.com/article/10.1007/s11042-022-12397-y). <b>Multimedia Tools and Applications 2022</b>.
 2. Yangtao Wang, *Yanzhao Xie*, Yu Liu, Lisheng Fan:
 [G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition](https://dl.acm.org/doi/10.1145/3460426.3463620). <b>ICMR 2021</b>: 322-330
 3. Yu Liu, Yangtao Wang, Lianli Gao, Chan Guo, *Yanzhao Xie*, Zhili Xiao:     
