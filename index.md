@@ -17,7 +17,7 @@
 
 ***
 ### PUBLICATIONS    
-#### 1.ACCEPTED (partial)
+#### ACCEPTED (partial)
 1. Yu Liu, *Yanzhao Xie*, Jingkuan Song, Rukai Wei, Ke Zhou:       
 Self-Supervised Label-Visual Correlation Hashing for Multi-Label Image Retrieval. <b>APWeb-WAIM 2022</b>.
 3. *Yanzhao Xie*, Yangtao Wang, Yu Liu, Ke Zhou:     
@@ -36,9 +36,9 @@ Self-Supervised Label-Visual Correlation Hashing for Multi-Label Image Retrieval
 [Virtual reality of interior noises of vehicles based on boundary element and neural networks](https://link.springer.com/article/10.1007%2Fs00521-016-2836-0). <b>Neural Comput. Appl</b>. 29(5): 1281-1291 (2018).   
 
       
-#### 2.UNDER REVIEW
+<!-- #### 2.UNDER REVIEW
 1. Label-Affinity Self-Adaptive Central Similarity Hashing (CVPR 2022), first author.
-2. SELF-SUPERVISED LABEL-VISUAL CORRELATION HASHING FOR MULTI-LABEL IMAGE RETRIEVAL (ICME 2022), second author.
+2. SELF-SUPERVISED LABEL-VISUAL CORRELATION HASHING FOR MULTI-LABEL IMAGE RETRIEVAL (ICME 2022), second author. -->
 <!-- 3. Image-modality Representation for Anomaly Detection Using Generative Adversarial Network (EDBT 2022), third author. -->
      
 ***
