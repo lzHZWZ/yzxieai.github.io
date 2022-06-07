@@ -18,9 +18,11 @@
 ***
 ### PUBLICATIONS    
 #### 1.ACCEPTED (partial)
-1. *Yanzhao Xie*, Yangtao Wang, Yu Liu, Ke Zhou:    
-[Label graph learning for multi-label image recognition with cross-modal fusion](https://link.springer.com/article/10.1007/s11042-022-12397-y). <b>Multimedia Tools and Applications 2022</b>.
-2. Yangtao Wang, *Yanzhao Xie*, Yu Liu, Lisheng Fan:
+1. Yu Liu, *Yanzhao Xie*, Jingkuan Song, Rukai Wei, Ke Zhou:       
+Self-Supervised Label-Visual Correlation Hashing for Multi-Label Image Retrieval. <b>APWeb-WAIM 2022</b>.
+3. *Yanzhao Xie*, Yangtao Wang, Yu Liu, Ke Zhou:     
+[Label graph learning for multi-label image recognition with cross-modal fusion](https://link.springer.com/article/10.1007/s11042-022-12397-y). <b>Multimedia Tools and Applications (MTAP) 2022</b>.
+2. Yangtao Wang, *Yanzhao Xie*, Yu Liu, Lisheng Fan:      
 [G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition](https://dl.acm.org/doi/10.1145/3460426.3463620). <b>ICMR 2021</b>: 322-330
 3. Yu Liu, Yangtao Wang, Lianli Gao, Chan Guo, *Yanzhao Xie*, Zhili Xiao:     
 [Deep Hash-based Relevance-aware Data Quality Assessment for Image Dark Data](https://dl.acm.org/doi/10.1145/3420038). <b>Trans. Data Sci</b>. 2(2): 11:1-11:26 (2021)
