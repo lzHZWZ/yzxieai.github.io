@@ -57,5 +57,5 @@ Self-Supervised Label-Visual Correlation Hashing for Multi-Label Image Retrieval
 ***
 ### CONTACT ME
 - <b>ADDRESS:</b>  Room B-409, Wuhan National Laboratory for Optoelectronics,1037 Luoyu Road, Hongshan District, Wuhan city, Hubei province, China
-- <b>EMAIL:</b> yzxie@hust.edu.cn
+- <b>EMAIL:</b> yasinexie@gmail.com<!--yzxie@hust.edu.cn-->
 
