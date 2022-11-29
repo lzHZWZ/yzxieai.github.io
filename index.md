@@ -20,7 +20,7 @@
 #### ACCEPTED (partial)
 1. <u>Yanzhao Xie</u>, Yu Liu, Yangtao Wang, Lianli Gao, Peng Wang, Ke Zhou:     
 [Label-Attended Hashing for Multi-Label Image Retrieval](https://doi.org/10.24963/ijcai.2020/133). <b>IJCAI 2020</b>: 955-962. <!--(CCF-A Conference paper, accepted, first author)-->
-2. <u>Yanzhao Xie</u>, Yangtao Wang, Yu Liu, Ke Zhou:     
+2. <u>Yanzhao Xie</u>, Guangxing Hu, Yu Liu, Zhiqiu Lin, Ke Zhou, Yuhong Zhao:     
 How visual chirality affects the performance of image hashing. <b>Neural Comput. Appl</b>. <!--(JCR Q1 Journal paper, accepted, first author)-->
 3. <u>Yanzhao Xie</u>, Yangtao Wang, Yu Liu, Ke Zhou:     
 [Label graph learning for multi-label image recognition with cross-modal fusion](https://link.springer.com/article/10.1007/s11042-022-12397-y). <b>Multimedia Tools and Applications (MTAP) 2022</b>. <!--(JCR Q2 Journal paper, accepted, first author)-->
