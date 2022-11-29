@@ -23,13 +23,13 @@
 2. <u>Yanzhao Xie</u>, Guangxing Hu, Yu Liu, Zhiqiu Lin, Ke Zhou, Yuhong Zhao:     
 How visual chirality affects the performance of image hashing. <b>Neural Comput. Appl</b>. <!--(JCR Q1 Journal paper, accepted, first author)-->
 3. <u>Yanzhao Xie</u>, Yangtao Wang, Yu Liu, Ke Zhou:     
-[Label graph learning for multi-label image recognition with cross-modal fusion](https://link.springer.com/article/10.1007/s11042-022-12397-y). <b>Multimedia Tools and Applications (MTAP) 2022</b>. <!--(JCR Q2 Journal paper, accepted, first author)-->
+[Label graph learning for multi-label image recognition with cross-modal fusion](https://link.springer.com/article/10.1007/s11042-022-12397-y). <b>Multim. Tools Appl. </b> 81(18): 25363-25381 (2022). <!--(JCR Q2 Journal paper, accepted, first author)-->
 4. Yangtao Wang, <u>Yanzhao Xie</u>, Yu Liu, Lisheng Fan:      
 [G-CAM: Graph Convolution Network Based Class Activation Mapping for Multi-label Image Recognition](https://dl.acm.org/doi/10.1145/3460426.3463620). <b>ICMR 2021</b>: 322-330. <!--(CCF-B Conference paper, accepted, corresponding author) -->  
 5. Yan-tian Zhang, Haoxiang Wang, <u>Yanzhao Xie</u>:     
 [An intelligent hybrid model for power flow optimization in the cloud-IOT electrical distribution network.](https://link.springer.com/article/10.1007%2Fs10586-017-1270-0) <b>Clust. Comput.</b> 22(6): 13109-13118 (2019). <!--(JCR Q1 Journal paper, accepted, corresponding author)  -->
 6. Yantian Zhang, Junyi Zhou, <u>Yanzhao Xie</u>:      
-[Virtual reality of interior noises of vehicles based on boundary element and neural networks](https://link.springer.com/article/10.1007%2Fs00521-016-2836-0). <b>Neural Comput. Appl</b>. 29(5): 1281-1291 (2018). <!--(JCR Q1 Journal paper, accepted, corresponding author) -->
+[Virtual reality of interior noises of vehicles based on boundary element and neural networks](https://link.springer.com/article/10.1007%2Fs00521-016-2836-0). <b>Neural Comput. Appl.</b> 29(5): 1281-1291 (2018). <!--(JCR Q1 Journal paper, accepted, corresponding author) -->
 7. Yangtao Wang, <u>Yanzhao Xie</u>, Yu Liu, Ke Zhou, Xiaocui Li:     
 [Fast Graph Convolution Network Based Multi-label Image Recognition via Cross-modal Fusion](https://doi.org/10.1145/3340531.3411880).<b>CIKM 2020</b>: 1575-1584. <!--(CCF-B Conference paper, accepted, second author)-->
 8. Yu Liu, <u>Yanzhao Xie</u>, Jingkuan Song, Rukai Wei, Ke Zhou:       
